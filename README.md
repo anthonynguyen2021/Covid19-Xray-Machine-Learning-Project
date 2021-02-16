@@ -1,4 +1,4 @@
-# Chest X-Ray classification of COVID-19 patients
+# Chest X-Ray classification of health & infected patients
 
 ## Abstract 
 
