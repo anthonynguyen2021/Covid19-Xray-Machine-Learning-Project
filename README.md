@@ -1,4 +1,4 @@
-# Chest X-Ray classification of health & infected patients
+# Chest X-Ray classification of healthy & infected patients
 
 ## Abstract 
 
